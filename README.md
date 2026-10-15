@@ -52,6 +52,8 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**NASA Space Place:**](http://spaceplace.nasa.gov/) Build your own spacecraft, play space volcanoes or browse through a gallery of sun images. When you’re at the Space Place, the universe is the limit.
 
+[Space Atlas](https://saramjh.github.io/space_atlas_student/): Free browser-based astronomy lessons for children learning with teachers or family. Explore Moon phases, Earth seasons, and cosmic scale through interactive models and short prompts.
+
 [**TechRocket:**](https://www.techrocket.com/) Learn programming languages, graphic design in Photoshop, and more! Use the promo code “MIDSFREE” to get a free first month!
 
 [**Arrick Robotics:**](http://www.arrickrobotics.com/) This isnt' the prettiest website in the world, but if you’re looking for robotics resources, this is the place to be. Includes lists of competitions and contests, groups and clubs, games and simulation.
